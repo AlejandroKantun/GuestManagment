@@ -29,6 +29,7 @@ Some technical features are:
 - Use of Flatlist.
 - Use of Textinputs
 - Use of linking to share data through Whatsapp
+- Use of Push Notifications (Firebase - Cloud Messaging)
 
 ## Demos
 
